@@ -1,0 +1,167 @@
+<div class="mt-6">
+          <div class="carousel w-full lg:h-[70vh]">
+            <!-- background: rgba(17, 17, 17, 0.80); -->
+
+            <div
+              id="slide1"
+              class="carousel-item relative w-full"
+              class="carousel w-full lg:h-[70vh]"
+              style="
+                background-image: linear-gradient(
+                    rgba(17, 17, 17, 0.705),
+                    rgba(17, 17, 17, 0.705)
+                  ),
+                  url('./images/banner.png');
+              "
+            >
+              <!-- <img
+                src="/images/stock/photo-1625726411847-8cbb60cc71e6.jpg"
+                class="w-full"
+              /> -->
+              <div class="flex items-center justify-center text-center">
+                <div>
+                  <img
+                    src="./images/faq.png"
+                    class="w-[70px] rounded-full mx-auto"
+                    alt=""
+                  />
+                  <h1 class="text-3xl text-white font-bold">Awlad Hossain</h1>
+                  <p class="text-white">UIX Designer</p>
+                  <p class="text-white mt-6 lg:w-[70%] mx-auto">
+                    Contrary to popular belief, Lorem Ipsum is not simply random
+                    text. It has roots in a piece of classical Latin literature
+                    from 45 BC, making it over 2000 years old. Richard
+                    McClintock, a Latin professor at Hampden-Sydney College in
+                    Virginia, looked up one of the more obscure Latin words,
+                    consectetur.
+                  </p>
+                </div>
+              </div>
+              <div
+                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
+              >
+                <a href="#slide4" class="btn btn-circle">❮</a>
+                <a href="#slide2" class="btn btn-circle">❯</a>
+              </div>
+            </div>
+            <!-- slide1 end -->
+            <div class="flex items-center justify-center text-center">
+              <div
+                id="slide2"
+                class="carousel-item relative w-full"
+                class="carousel w-full lg:h-[70vh]"
+                style="
+                  background-image: linear-gradient(
+                      rgba(17, 17, 17, 0.705),
+                      rgba(17, 17, 17, 0.705)
+                    ),
+                    url('./images/slider-1.jpg');
+                "
+              >
+                <div>
+                  <img
+                    src="./images/faq.png"
+                    class="w-[70px] rounded-full mx-auto"
+                    alt=""
+                  />
+                  <h1 class="text-3xl text-white font-bold">Awlad Hossain</h1>
+                  <p class="text-white">UIX Designer</p>
+                  <p class="text-white mt-6 lg:w-[70%] mx-auto">
+                    Contrary to popular belief, Lorem Ipsum is not simply random
+                    text. It has roots in a piece of classical Latin literature
+                    from 45 BC, making it over 2000 years old. Richard
+                    McClintock, a Latin professor at Hampden-Sydney College in
+                    Virginia, looked up one of the more obscure Latin words,
+                    consectetur.
+                  </p>
+                </div>
+                <div
+                  class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
+                >
+                  <a href="#slide1" class="btn btn-circle">❮</a>
+                  <a href="#slide3" class="btn btn-circle">❯</a>
+                </div>
+              </div>
+            </div>
+
+            <!-- slide 2 end -->
+            <div class="flex items-center justify-center text-center">
+              <div
+                id="slide3"
+                class="carousel-item relative w-full"
+                class="carousel w-full lg:h-[70vh]"
+                style="
+                  background-image: linear-gradient(
+                      rgba(17, 17, 17, 0.705),
+                      rgba(17, 17, 17, 0.705)
+                    ),
+                    url('./images/banner.png');
+                "
+              >
+                <div>
+                  <img
+                    src="./images/faq.png"
+                    class="w-[70px] rounded-full mx-auto"
+                    alt=""
+                  />
+                  <h1 class="text-3xl text-white font-bold">Awlad Hossain</h1>
+                  <p class="text-white">UIX Designer</p>
+                  <p class="text-white mt-6 lg:w-[70%] mx-auto">
+                    Contrary to popular belief, Lorem Ipsum is not simply random
+                    text. It has roots in a piece of classical Latin literature
+                    from 45 BC, making it over 2000 years old. Richard
+                    McClintock, a Latin professor at Hampden-Sydney College in
+                    Virginia, looked up one of the more obscure Latin words,
+                    consectetur.
+                  </p>
+                </div>
+                <div
+                  class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
+                >
+                  <a href="#slide2" class="btn btn-circle">❮</a>
+                  <a href="#slide4" class="btn btn-circle">❯</a>
+                </div>
+              </div>
+            </div>
+
+            <!-- slide3 end -->
+            <div class="flex items-center justify-center text-center">
+              <div
+                id="slide4"
+                class="carousel-item relative w-full"
+                class="carousel w-full lg:h-[70vh]"
+                style="
+                  background-image: linear-gradient(
+                      rgba(17, 17, 17, 0.705),
+                      rgba(17, 17, 17, 0.705)
+                    ),
+                    url('./images/banner.png');
+                "
+              >
+                <div>
+                  <img
+                    src="./images/faq.png"
+                    class="w-[70px] rounded-full mx-auto"
+                    alt=""
+                  />
+                  <h1 class="text-3xl text-white font-bold">Awlad Hossain</h1>
+                  <p class="text-white">UIX Designer</p>
+                  <p class="text-white mt-6 lg:w-[70%] mx-auto">
+                    Contrary to popular belief, Lorem Ipsum is not simply random
+                    text. It has roots in a piece of classical Latin literature
+                    from 45 BC, making it over 2000 years old. Richard
+                    McClintock, a Latin professor at Hampden-Sydney College in
+                    Virginia, looked up one of the more obscure Latin words,
+                    consectetur.
+                  </p>
+                </div>
+              </div>
+              <div
+                class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2"
+              >
+                <a href="#slide3" class="btn btn-circle">❮</a>
+                <a href="#slide1" class="btn btn-circle">❯</a>
+              </div>
+            </div>
+          </div>
+        </div>
